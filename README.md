@@ -14,7 +14,7 @@ Hello there! I'm a 3rd-year Computer Science student and a passionate full-stack
 
 #### Backend Development
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 #### Databases
 
@@ -34,8 +34,8 @@ Hello there! I'm a 3rd-year Computer Science student and a passionate full-stack
 <table>
   <tr>
     <th>
-      <a href=https://github.com/chanon-mike/tokyo-train-delays>
-        <img src="assets/images/tokyo_train_delay.png" alt="Tokyo Train Delay">
+      <a href=https://github.com/chanon-mike/train-delay-team14>
+        <img src="assets/images/train_delay_2.png" alt="Tokyo Train Delay">
       </a>
     </th>
     <th>
