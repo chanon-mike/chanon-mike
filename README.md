@@ -2,7 +2,9 @@
 
 Hello there! I'm a 3rd-year Computer Science student and a passionate full-stack developer. I have a strong interest in building web applications and solving real-life problems.
 
-Here is my [Portfolio](https://chanon-mike.vercel.app/).
+**🎃 Currently participating in hacktoberfest!!**
+
+[Visit my Portfolio](https://chanon-mike.vercel.app/)
 
 <a href="https://chanon-mike.vercel.app/">
 <img src="assets/images/portfolio.png" alt="Portfolio">
