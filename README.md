@@ -2,8 +2,6 @@
 
 Hello there! I'm a 3rd-year Computer Science student and a passionate full-stack developer. I have a strong interest in building web applications and solving real-life problems.
 
-**🎃 Currently participating in hacktoberfest!!**
-
 [Visit my Portfolio](https://chanon-mike.vercel.app/)
 
 <a href="https://chanon-mike.vercel.app/">
@@ -26,26 +24,26 @@ Hello there! I'm a 3rd-year Computer Science student and a passionate full-stack
       </a>
     </th>
     <th>
+      <a href=https://github.com/chanon-mike/smart-ryokou>
+        <img src="assets/images/smart-ryokou.png" alt="Smart Ryokou">
+      </a>
+    </th>
+  </tr>
+  <tr><td>Tokyo Train Delay</td><td>Smart Ryokou</td></tr>
+
+  <tr>
+    <th>
       <a href=https://github.com/chanon-mike/aihouse-automation>
         <img src="assets/images/aihouse-automation.png" alt="AI-House Automation">
       </a>
     </th>
-  </tr>
-  <tr><td>Tokyo Train Delay</td><td>AI-House Automation</td></tr>
-
-  <tr>
     <th>
       <a href=https://github.com/chanon-mike/naitei-journey>
         <img src="assets/images/naitei-journey.png" alt="Naitei Journey">
       </a>
     </th>
-    <th>
-      <a href=https://github.com/chanon-mike/online-othello>
-        <img src="assets/images/online-othello.png" alt="Online Othello">
-      </a>
-    </th>
   </tr>
-  <tr><td>Naitei Journey</td><td>Online Othello</td></tr>
+  <tr><td>AI-House Automation</td><td>Naitei Journey</td></tr>
 </table>
 
 <details><summary><b>See more...</b></summary>
@@ -72,11 +70,11 @@ Hello there! I'm a 3rd-year Computer Science student and a passionate full-stack
       </a>
     </th>
     <th>
-      <a href=https://github.com/chanon-mike/iniad-notetaker>
-        <img src="assets/images/iniad_notetaker.png" alt="INIAD Notetaker">
+      <a href=https://github.com/chanon-mike/online-othello>
+        <img src="assets/images/online-othello.png" alt="Online Othello">
       </a>
     </th>
   </tr>
-  <tr><td>INIAD Forum</td><td>INIAD MOOCs Note Automation</td></tr>
+  <tr><td>INIAD Forum</td><td>Online Othello</td></tr>
 </table>
 </details>
