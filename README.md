@@ -1,12 +1,6 @@
 # Chanon Limpipolpaibul
 
-Hello there! I'm a 3rd-year Computer Science student and a passionate full-stack developer. I have a strong interest in building web applications and solving real-life problems.
-
-[Visit my Portfolio](https://chanon-mike.vercel.app/)
-
-<a href="https://chanon-mike.vercel.app/">
-<img src="assets/images/portfolio.png" alt="Portfolio">
-</a>
+Hello there! I'm a Computer Science student based in Tokyo, Japan
 
 ## Activities
 
