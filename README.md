@@ -1,6 +1,6 @@
 # Chanon Limpipolpaibul
 
-Hello there! I'm a Computer Science student based in Tokyo, Japan
+Hello there! I'm a software engineer based in Tokyo, Japan
 
 ## Activities
 
@@ -10,6 +10,7 @@ Hello there! I'm a Computer Science student based in Tokyo, Japan
 
 ## Portfolio
 
+<details><summary><b>See more...</b></summary>
 <table>
   <tr>
     <th>
@@ -38,10 +39,7 @@ Hello there! I'm a Computer Science student based in Tokyo, Japan
     </th>
   </tr>
   <tr><td>AI-House Automation</td><td>Naitei Journey</td></tr>
-</table>
-
-<details><summary><b>See more...</b></summary>
-<table>
+  
   <tr>
     <th>
       <a href=https://github.com/chanon-mike/camelot>
